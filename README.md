@@ -91,8 +91,8 @@
 ### 📫 Contact
 - 📧 Email: phucson2004@gmail.com  
 - 🌐 Portfolio: (tbd)  
-- 🔗 LinkedIn: [(LinkedIn)](https://www.linkedin.com/in/haru-shinono-6435ba210/)  
-- 🐦 GitHub: github.com/harushinono  
+- 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/haru-shinono-6435ba210/)  
+- 🐦 GitHub: [This Github](github.com/harushinono)    
 
 ###
 
