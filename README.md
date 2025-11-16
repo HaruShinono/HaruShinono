@@ -1,12 +1,21 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="40"/> What's up?</h1>
 
 ###
 
-<p align="left">My name is Haru Shinono and I'm a Information security students & Game modder, from Vietnam</p>
+<p align="left">My name is Haru Shinono – Information Security Student & Game Modder from Vietnam</p>
 
 ###
 
 <img align="right" height="200" src="https://i.redd.it/k9nl7nl3ogx41.gif"  />
+
+###
+
+### 🔍 About Me
+- 🛡️ Information Security Student @ VNU-IS  
+- 🧪 Security Researcher focusing on: Web Security, Vulnerability Scanning, Exploit Analysis  
+- 🔧 Developer: Python, C/C++, Bash, C#, Unity, Raspberry Pi/Arduino  
+- 🎮 Game Modder & Reverse Engineering enthusiast  
+- 🧩 Passionate about CTFs, offensive security, and building security tools  
 
 ###
 
@@ -23,10 +32,15 @@
 
 ###
 
-<p align="left">I code/work with:</p>
+### 🚀 Featured Projects
+- 🔎 **Web Vulnerability Scanner (Python)** – Automated recon, XSS/SQLi detection, DOM analysis, form submission, scoring system.
+- 🔐 **OMSKBIO** – An 3 layers Biometric Authentication System (include: fingerprint, facial authentication, voice authentication).
+- 🤖 **Custom Chess AI (TensorFlow)** – Self-learning model with board state evaluation & interactive GUI.
+- 🎮 **Escape From Duckov Mod Framework** – Custom item system, Chinese localization support, DLL patching.
 
 ###
 
+### 🛠️ I code/work with
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
   <img width="12" />
@@ -51,6 +65,21 @@
 
 ###
 
+### 🛡️ Security Toolkit
+<div align="center">
+  <img src="https://img.shields.io/badge/Burp_Suite-orange?logo=burp-suite&style=flat" height="30"/>
+  <img width="8"/>
+  <img src="https://img.shields.io/badge/Wireshark-blue?logo=wireshark&style=flat" height="30"/>
+  <img width="8"/>
+  <img src="https://img.shields.io/badge/Nmap-informational?style=flat" height="30"/>
+  <img width="8"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-blue?logo=kali-linux&style=flat" height="30"/>
+  <img width="8"/>
+  <img src="https://img.shields.io/badge/Metasploit-darkblue?logo=metasploit&style=flat" height="30"/>
+</div>
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HaruShinono/HaruShinono/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HaruShinono/HaruShinono/output/pacman-contribution-graph.svg">
@@ -59,8 +88,14 @@
 
 ###
 
+### 📫 Contact
+- 📧 Email: phucson2004@gmail.com  
+- 🌐 Portfolio: (tbd)  
+- 🔗 LinkedIn: [(LinkedIn)](https://www.linkedin.com/in/haru-shinono-6435ba210/)  
+- 🐦 GitHub: github.com/harushinono  
+
+###
+
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Thank%20for%20visiting!!!&fontSize=60&fontColor=FF0000&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=radical"  />
 </div>
-
-###
