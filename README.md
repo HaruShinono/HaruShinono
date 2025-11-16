@@ -1,4 +1,4 @@
-<h1 align="left">Hey <img src="https://media.tenor.com/VHsiL8B8P0wAAAAM/shincore-wave-emoji.gif" width="40"/> What's up?</h1>
+<h1 align="left">Hey <img src="https://media.giphy.com/media/xUOwGflqN0hH0FA1bq/giphy.gif" width="32" /> What's up?</h1>
 
 ###
 
