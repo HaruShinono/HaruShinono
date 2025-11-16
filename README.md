@@ -1,4 +1,4 @@
-<h1 align="left">Hey <img src="https://media.giphy.com/media/xUOwGflqN0hH0FA1bq/giphy.gif" width="32" /> What's up?</h1>
+<h1 align="left">Hey <img src="https://i.pinimg.com/originals/51/12/5d/51125d9904b0aab078e2f7d0cbf37d8a.gif" width="45" /> What's up?</h1>
 
 ###
 
