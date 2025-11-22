@@ -33,7 +33,7 @@
 ###
 
 ### 🚀 Featured Projects
-- 🔎 **Web Vulnerability Scanner (Python)** – Automated recon, XSS/SQLi detection, DOM analysis, form submission, scoring system.
+- 🔎 **Web Vulnerability Scanner** – Automated recon, XSS/SQLi detection, DOM analysis, form submission, scoring system.
 - 🔐 **OMSKBIO** – An 3 layers Biometric Authentication System (include: fingerprint, facial authentication, voice authentication).
 - 🤖 **Custom Chess AI (TensorFlow)** – Self-learning model with board state evaluation & interactive GUI.
 - 🎮 **Escape From Duckov Mod Framework** – Custom item system, Multi-languages localization support, DLL patching.
