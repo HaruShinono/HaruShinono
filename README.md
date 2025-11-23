@@ -12,7 +12,7 @@
 
 ### 🔍 About Me
 - 🛡️ Information Security Student @ VNU-IS  
-- 🧪 Security Researcher focusing on: Web Security, Vulnerability Analysis/Scanning & System Monitor  
+- 🧪 Security Researcher focusing on: Web Security, Vulnerability Analysis/Scanning, DFIR & System Monitor  
 - 🔧 Developer: Python, C/C++, Bash, C#, Unity, Raspberry Pi/Arduino  
 - 🎮 Game Modder & Reverse Engineering enthusiast  
 - 🧩 Passionate about CTFs, offensive security, and building security tools  
