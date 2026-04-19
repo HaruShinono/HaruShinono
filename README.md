@@ -27,8 +27,8 @@
 ### 🚀 Featured Projects
 - 🔎 **Filin-Web Vulnerability Scanner** – Automated recon, XSS/SQLi detection, DOM analysis, form submission, scoring system.
 - 🔐 **OMSKBIO** – 3-factor biometric authentication system using fingerprint, face, and voice recognition, built with Flask and integrated with Arduino hardware.
-- 🤖 **Custom Chess AI (TensorFlow)** – Self-learning model with board state evaluation & interactive GUI.
-- 🎮 **Escape From Duckov Mod Framework** – Custom item system, Multi-languages localization support, DLL patching.
+- 🤖 **Custom Chess AI** – Self-learning model with board state evaluation & interactive GUI.
+- 🎮 **Duckov Custom Item Mod Framework** – Custom item system, Multi-languages localization support, DLL patching.
 
 ###
 
