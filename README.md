@@ -29,6 +29,7 @@
 - 🔐 **OMSKBIO** – 3-factor biometric authentication system using fingerprint, face, and voice recognition, built with Flask and integrated with Arduino hardware.
 - 🤖 **Custom Chess AI** – Self-learning model with board state evaluation & interactive GUI.
 - 🎮 **Duckov Custom Item Mod Framework** – Custom item system, Multi-languages localization support, DLL patching.
+- ...and a bunch of RedTeam/SIEM projects
 
 ###
 
