@@ -17,13 +17,6 @@
 - 🎮 Game Modder & Reverse Engineering enthusiast  
 - 🧩 Passionate about CTFs, offensive security, building security tools, reverse engineering & game modding
 
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=HaruShinono&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HaruShinono&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
 ### 🚀 Featured Projects
 - 🔎 **Filin-Web Vulnerability Scanner** – Automated recon, XSS/SQLi detection, DOM analysis, form submission, scoring system.
 - 🔐 **OMSKBIO** – 3-factor biometric authentication system using fingerprint, face, and voice recognition, built with Flask and integrated with Arduino hardware.
@@ -69,6 +62,10 @@
   <img src="https://img.shields.io/badge/Kali_Linux-blue?logo=kali-linux&style=flat" height="30"/>
   <img width="8"/>
   <img src="https://img.shields.io/badge/Metasploit-darkblue?logo=metasploit&style=flat" height="30"/>
+  <img width="8"/>
+  <img src="https://img.shields.io/badge/Splunk-000000?logo=splunk&style=flat" height="30"/>
+  <img width="8"/>
+  <img src="https://img.shields.io/badge/Wazuh-0072C6?logo=wazuh&style=flat" height="30"/>
 </div>
 
 ###
